@@ -1,0 +1,13 @@
+h1{
+    margin-top:6cm;
+    margin-left:4cm;
+}
+button{
+    margin-top:0cm;
+    margin-left:5cm;
+    color:green;
+    background-color: orange;
+    border:10cm;
+    border-radius:2cm;
+    border-style:initial;
+}
